@@ -1,6 +1,6 @@
 # Halo, saya Rivan 👋
 
-Mahasiswa D4 Teknik Rekayasa Sistem Elektronika (TRSE) di Universitas Negeri Malang. Saya suka membuat aplikasi dan alat kecil untuk menyelesaikan masalah yang saya temui sehari-hari, dan sedang memperdalam elektronika serta C++ untuk bidang sistem elektronika dan robotika.
+Mahasiswa D4 Teknologi Rekayasa Sistem Elektronika (TRSE) di Universitas Negeri Malang. Saya suka membuat aplikasi dan alat kecil untuk menyelesaikan masalah yang saya temui sehari-hari, dan sedang memperdalam elektronika serta C++ untuk bidang sistem elektronika dan robotika.
 
 ## Proyek software
 
@@ -12,7 +12,7 @@ Mahasiswa D4 Teknik Rekayasa Sistem Elektronika (TRSE) di Universitas Negeri Mal
 Dokumentasi (foto, video, skema, dan kode) sedang disiapkan dan akan ditambahkan bertahap.
 
 - Jam digital seven segment (menit:detik): desain skematik sampai layout PCB di KiCad (belum dicetak)
-- PCB LED berbentuk hati di EasyEDA
+- PCB LED berbentuk hati di EasyEDA (belum dicetak)
 - Kontrol pola LED lewat web lokal dengan ESP32
 - Servo pan-tilt berlaser, dikendalikan lewat HP lalu diganti dengan joystick
 - Mouse Bluetooth berbasis ESP32
